@@ -4,7 +4,7 @@
 - The most important thing in my life is my family and friends.
 - I like the beach, the countryside, a good meeting with friends, doing some sport and technology.
 
-<iframe src="https://github.com/sponsors/rfernandezdo/button" title="Sponsor rfernandezdo" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 
 <!--
 **rfernandezdo/rfernandezdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
